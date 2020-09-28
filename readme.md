@@ -1,4 +1,4 @@
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/190027932@N07/50393061116/in/dateposted-public/" title="GifName"><img src="https://live.staticflickr.com/65535/50393061116_8209cfd2e8_o.gif" width="619" height="133" alt="GifName"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/190027932@N07/50393061116/in/dateposted-public/" title="GifName"><img src="https://live.staticflickr.com/65535/50393061116_8209cfd2e8_o.gif" align="center" width="619" height="133" alt="GifName"></a>
 
 ## About me
 
