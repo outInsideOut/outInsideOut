@@ -2,7 +2,7 @@
 
 ## About me
 
-I am a third year Computer Science student at the Univesity of Lincoln. I am passionate about writing clean, fast C++ code and algorithms/logic procedures. 
+I have just completed a first-class Computer Science degree at the Univesity of Lincoln. I am passionate about writing clean, fast code and algorithms/logic procedures. 
 
 Aside from programming, I enjoy playing games (video or tabletop, I'm happy either way) with my friends, cooking and trying new foods, and teaching myself new skills such as guitar and juggling. 
 
